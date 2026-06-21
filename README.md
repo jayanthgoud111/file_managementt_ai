@@ -1,4 +1,4 @@
-# SEFS | Semantic Entropy File System
+Semantic Entropy File System
 ### *Neural Intelligence Interface & Dynamic Security Engine*
 
 **SEFS** is a next-generation file management system that transforms a static directory into a "Living Brain." By leveraging deep semantic analysis, it automatically organizes files based on context, generates AI-driven summaries, and implements a dynamic security layer for sensitive data.
